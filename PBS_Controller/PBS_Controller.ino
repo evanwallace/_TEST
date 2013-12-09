@@ -270,7 +270,8 @@ void loop(){
     //open S4
     relayOn(relay4Pin, true);
     relayOn(relay5Pin, false);
-    //digitalWrite(light1Pin, HIGH);
+    digitalWrite(light1Pin, HIGH); //UNCOMMENTED
+  
     
     M = M + 1;
     
