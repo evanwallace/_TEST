@@ -37,9 +37,9 @@ const int buzzerPin  = 13;     // pin for buzzer
 const int sensor1Pin = A0;     // pin for preasure sensor1 P1
 const int sensor2Pin = A1;     // pin for pressure sensor2 P2 ADDED 10/29
 //                     A2      // future cleaning switch
-//const int light1Pin =  A3;     // pin for button 1 light 
-//const int light2Pin =  A4;     // pin for button 2 light
-//const int light3Pin =  A5;     // pin for button 3 light
+const int light1Pin =  A3;     // pin for button 1 light 
+const int light2Pin =  A4;     // pin for button 2 light
+const int light3Pin =  A5;     // pin for button 3 light
 
 
 // Inititialize button states
