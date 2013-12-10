@@ -6,6 +6,10 @@ RECENT CHAGNGES
 
 10/29 ADDED PIN FOR 2ND PRESSURE SENSOR 
 12/7  THIS FILE CONTAINS THE CURRENT PINOUTS FOR MICRO--I THINK
+
+12/9 change
+12/9 change
+
 **************************************************************************  
 */
 
